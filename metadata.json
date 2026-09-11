@@ -1,0 +1,7 @@
+{
+  "name": "Sandra Carlos Consultoria Imobiliária",
+  "description": "Consultoria imobiliária de alto padrão em Lisboa, Sintra e Comporta com curadoria de arquitetura de autor, discrição e rigor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
